@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Casino Royale</string>
+    <string name="welcome">Welcome to Casino Royale</string>
+    <string name="select_game">Select Game</string>
+    <string name="craps">Craps</string>
+    <string name="sum">Sum</string>
+    <string name="dice2">Dice 2</string>
+    <string name="dice1">Dice 1</string>
+    <string name="roll">Roll Dice</string>
+    <string name="the_point_is_s">The Point is: %s</string>
+    <string name="lose_string">You Lose! Better luck next time.</string>
+    <string name="play_again">Play Again</string>
+    <string name="win_string">You Win! Good game.</string>
+    <string name="roll_again">Roll Again!</string>
+    <string name="casino_war">Casino War</string>
+    <string name="enter">Enter</string>
+    <string name="info">by Sneha A</string>
+    <string name="baccarat">Baccarat</string>
+    <string name="craps_title">Craps!</string>
+</resources>

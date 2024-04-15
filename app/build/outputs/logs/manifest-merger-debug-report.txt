@@ -1,0 +1,175 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Users\Github-Projects\CasinoRoyale\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from D:\Users\Github-Projects\CasinoRoyale\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from D:\Users\Github-Projects\CasinoRoyale\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from D:\Users\Github-Projects\CasinoRoyale\app\src\main\AndroidManifest.xml:2:1-24:12
+MERGED from [androidx.core:core-ktx:1.3.2] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\9b65c68194abb59e72786c6ef4def3ed\transformed\jetified-core-ktx-1.3.2\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.material:material:1.2.1] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\1b22d3bc4e37837f43e46bb46004e909\transformed\material-1.2.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\056ee5c98f1ebdc02beee88e89a89c10\transformed\constraintlayout-2.0.4\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\1d7a0d279af73ad25de1d7dd8eb01e6c\transformed\appcompat-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.multidex:multidex:2.0.0] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\64c97980d6e8c7eab050d005c4c43099\transformed\multidex-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\7e9a1f45652d90cbc667bf7eb060e8ef\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.1.0] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\09ce6c8df41e15b93c065461a17b4340\transformed\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\5e121aa6fb8d7b2069c7088791003397\transformed\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\b6a4fd3a6da47e8d03764e91c83a112e\transformed\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\880b3b68c4b3cc46a62314abe697fe98\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\0200ded73a7426f2061c6f15bbcd0c93\transformed\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\1c78ece750993c6f3d1b35c7a9d3f717\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\2c8a1f74fe609fed04db56b1da29265f\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\65496d7e278a676fccb60fe0eb829541\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\683338a28bdaec3a588765ed080f7e45\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\d06f358c8a90c07f266f60901c8f8fe3\transformed\jetified-activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\c2742fcfee0df27fe797d8d1b7e372bc\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\b38ca94156eac55f35823067829fdde2\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.3.2] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\dde71b5c6cc885fd493e49d46ee3002a\transformed\core-1.3.2\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\816d12b2c75c29aa5d757fb4d5f85f42\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\25fab223511ea564b855c790d3a498e0\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\f12a880f42fb7eccede549f4c83a70d4\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\19ffd5bc8e3c21395fc5defff440b0ae\transformed\lifecycle-runtime-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\b46db8c78ba663d5d8fb16dfdda9a75c\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\289b6606373fbe4a40d4544816e71d30\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\476ed33655616d6cdd515f476bb38f4c\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\1409d39772436c532d45c9bf1edf3f23\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\9aa119a8df30209d7f65b74fd5dfd33c\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\80205e8efff6feb80e918a81bdb7f863\transformed\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\eb6e1f92dfdb8cec386940cfc4e7ef4f\transformed\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:17:1-24:12
+INJECTED from D:\Users\Github-Projects\CasinoRoyale\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from D:\Users\Github-Projects\CasinoRoyale\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from D:\Users\Github-Projects\CasinoRoyale\app\src\main\AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from D:\Users\Github-Projects\CasinoRoyale\app\src\main\AndroidManifest.xml:3:5-39
+		INJECTED from D:\Users\Github-Projects\CasinoRoyale\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Users\Github-Projects\CasinoRoyale\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Users\Github-Projects\CasinoRoyale\app\src\main\AndroidManifest.xml
+		ADDED from D:\Users\Github-Projects\CasinoRoyale\app\src\main\AndroidManifest.xml:2:1-24:12
+		INJECTED from D:\Users\Github-Projects\CasinoRoyale\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\Users\Github-Projects\CasinoRoyale\app\src\main\AndroidManifest.xml
+		ADDED from D:\Users\Github-Projects\CasinoRoyale\app\src\main\AndroidManifest.xml:2:1-24:12
+		INJECTED from D:\Users\Github-Projects\CasinoRoyale\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Users\Github-Projects\CasinoRoyale\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from D:\Users\Github-Projects\CasinoRoyale\app\src\main\AndroidManifest.xml:5:5-22:19
+MERGED from [com.google.android.material:material:1.2.1] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\1b22d3bc4e37837f43e46bb46004e909\transformed\material-1.2.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.2.1] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\1b22d3bc4e37837f43e46bb46004e909\transformed\material-1.2.1\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\056ee5c98f1ebdc02beee88e89a89c10\transformed\constraintlayout-2.0.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\056ee5c98f1ebdc02beee88e89a89c10\transformed\constraintlayout-2.0.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.3.2] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\dde71b5c6cc885fd493e49d46ee3002a\transformed\core-1.3.2\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.2] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\dde71b5c6cc885fd493e49d46ee3002a\transformed\core-1.3.2\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\f12a880f42fb7eccede549f4c83a70d4\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\f12a880f42fb7eccede549f4c83a70d4\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.2] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\dde71b5c6cc885fd493e49d46ee3002a\transformed\core-1.3.2\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from D:\Users\Github-Projects\CasinoRoyale\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from D:\Users\Github-Projects\CasinoRoyale\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from D:\Users\Github-Projects\CasinoRoyale\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from D:\Users\Github-Projects\CasinoRoyale\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from D:\Users\Github-Projects\CasinoRoyale\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from D:\Users\Github-Projects\CasinoRoyale\app\src\main\AndroidManifest.xml:11:9-50
+activity#com.example.casinoroyale.CrapsActivity
+ADDED from D:\Users\Github-Projects\CasinoRoyale\app\src\main\AndroidManifest.xml:12:9-60
+	android:name
+		ADDED from D:\Users\Github-Projects\CasinoRoyale\app\src\main\AndroidManifest.xml:12:19-48
+activity#com.example.casinoroyale.HomeActivity
+ADDED from D:\Users\Github-Projects\CasinoRoyale\app\src\main\AndroidManifest.xml:13:9-50
+	android:name
+		ADDED from D:\Users\Github-Projects\CasinoRoyale\app\src\main\AndroidManifest.xml:13:19-47
+activity#com.example.casinoroyale.MainActivity
+ADDED from D:\Users\Github-Projects\CasinoRoyale\app\src\main\AndroidManifest.xml:14:9-21:20
+	android:exported
+		ADDED from D:\Users\Github-Projects\CasinoRoyale\app\src\main\AndroidManifest.xml:15:13-36
+	android:name
+		ADDED from D:\Users\Github-Projects\CasinoRoyale\app\src\main\AndroidManifest.xml:14:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\Users\Github-Projects\CasinoRoyale\app\src\main\AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from D:\Users\Github-Projects\CasinoRoyale\app\src\main\AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from D:\Users\Github-Projects\CasinoRoyale\app\src\main\AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Users\Github-Projects\CasinoRoyale\app\src\main\AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from D:\Users\Github-Projects\CasinoRoyale\app\src\main\AndroidManifest.xml:19:27-74
+uses-sdk
+INJECTED from D:\Users\Github-Projects\CasinoRoyale\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Users\Github-Projects\CasinoRoyale\app\src\main\AndroidManifest.xml
+INJECTED from D:\Users\Github-Projects\CasinoRoyale\app\src\main\AndroidManifest.xml
+MERGED from [androidx.core:core-ktx:1.3.2] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\9b65c68194abb59e72786c6ef4def3ed\transformed\jetified-core-ktx-1.3.2\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.3.2] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\9b65c68194abb59e72786c6ef4def3ed\transformed\jetified-core-ktx-1.3.2\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.material:material:1.2.1] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\1b22d3bc4e37837f43e46bb46004e909\transformed\material-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.2.1] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\1b22d3bc4e37837f43e46bb46004e909\transformed\material-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\056ee5c98f1ebdc02beee88e89a89c10\transformed\constraintlayout-2.0.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\056ee5c98f1ebdc02beee88e89a89c10\transformed\constraintlayout-2.0.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\1d7a0d279af73ad25de1d7dd8eb01e6c\transformed\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\1d7a0d279af73ad25de1d7dd8eb01e6c\transformed\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.multidex:multidex:2.0.0] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\64c97980d6e8c7eab050d005c4c43099\transformed\multidex-2.0.0\AndroidManifest.xml:20:5-43
+MERGED from [androidx.multidex:multidex:2.0.0] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\64c97980d6e8c7eab050d005c4c43099\transformed\multidex-2.0.0\AndroidManifest.xml:20:5-43
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\7e9a1f45652d90cbc667bf7eb060e8ef\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\7e9a1f45652d90cbc667bf7eb060e8ef\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\09ce6c8df41e15b93c065461a17b4340\transformed\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\09ce6c8df41e15b93c065461a17b4340\transformed\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\5e121aa6fb8d7b2069c7088791003397\transformed\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\5e121aa6fb8d7b2069c7088791003397\transformed\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\b6a4fd3a6da47e8d03764e91c83a112e\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\b6a4fd3a6da47e8d03764e91c83a112e\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\880b3b68c4b3cc46a62314abe697fe98\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\880b3b68c4b3cc46a62314abe697fe98\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\0200ded73a7426f2061c6f15bbcd0c93\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\0200ded73a7426f2061c6f15bbcd0c93\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\1c78ece750993c6f3d1b35c7a9d3f717\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\1c78ece750993c6f3d1b35c7a9d3f717\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\2c8a1f74fe609fed04db56b1da29265f\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\2c8a1f74fe609fed04db56b1da29265f\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\65496d7e278a676fccb60fe0eb829541\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\65496d7e278a676fccb60fe0eb829541\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\683338a28bdaec3a588765ed080f7e45\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\683338a28bdaec3a588765ed080f7e45\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\d06f358c8a90c07f266f60901c8f8fe3\transformed\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\d06f358c8a90c07f266f60901c8f8fe3\transformed\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\c2742fcfee0df27fe797d8d1b7e372bc\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\c2742fcfee0df27fe797d8d1b7e372bc\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\b38ca94156eac55f35823067829fdde2\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\b38ca94156eac55f35823067829fdde2\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.3.2] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\dde71b5c6cc885fd493e49d46ee3002a\transformed\core-1.3.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.2] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\dde71b5c6cc885fd493e49d46ee3002a\transformed\core-1.3.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\816d12b2c75c29aa5d757fb4d5f85f42\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\816d12b2c75c29aa5d757fb4d5f85f42\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\25fab223511ea564b855c790d3a498e0\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\25fab223511ea564b855c790d3a498e0\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\f12a880f42fb7eccede549f4c83a70d4\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\f12a880f42fb7eccede549f4c83a70d4\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\19ffd5bc8e3c21395fc5defff440b0ae\transformed\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\19ffd5bc8e3c21395fc5defff440b0ae\transformed\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\b46db8c78ba663d5d8fb16dfdda9a75c\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\b46db8c78ba663d5d8fb16dfdda9a75c\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\289b6606373fbe4a40d4544816e71d30\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\289b6606373fbe4a40d4544816e71d30\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\476ed33655616d6cdd515f476bb38f4c\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\476ed33655616d6cdd515f476bb38f4c\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\1409d39772436c532d45c9bf1edf3f23\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\1409d39772436c532d45c9bf1edf3f23\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\9aa119a8df30209d7f65b74fd5dfd33c\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\9aa119a8df30209d7f65b74fd5dfd33c\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\80205e8efff6feb80e918a81bdb7f863\transformed\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\80205e8efff6feb80e918a81bdb7f863\transformed\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\eb6e1f92dfdb8cec386940cfc4e7ef4f\transformed\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] D:\Users\Sneha\Java\jdk-11\bin\caches\transforms-3\eb6e1f92dfdb8cec386940cfc4e7ef4f\transformed\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+INJECTED from D:\Users\Github-Projects\CasinoRoyale\app\src\main\AndroidManifest.xml
+INJECTED from D:\Users\Github-Projects\CasinoRoyale\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\Users\Github-Projects\CasinoRoyale\app\src\main\AndroidManifest.xml
+		ADDED from D:\Users\Github-Projects\CasinoRoyale\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Users\Github-Projects\CasinoRoyale\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Users\Github-Projects\CasinoRoyale\app\src\main\AndroidManifest.xml
+		ADDED from D:\Users\Github-Projects\CasinoRoyale\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Users\Github-Projects\CasinoRoyale\app\src\main\AndroidManifest.xml

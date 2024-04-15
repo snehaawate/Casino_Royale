@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":app:androidTest" external.linked.project.path="$MODULE_DIR$/../../../app" external.root.project.path="$MODULE_DIR$/../../.." external.system.id="GRADLE" external.system.module.type="sourceSet" type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet external-system-id="GRADLE" type="kotlin-language" name="Kotlin">
+      <configuration version="5" platform="JVM 1.8" allPlatforms="JVM [1.8]" useProjectSettings="false">
+        <additionalVisibleModuleNames>:app:main</additionalVisibleModuleNames>
+        <compilerSettings>
+          <option name="additionalArguments" value="-Xallow-no-source-files" />
+        </compilerSettings>
+        <compilerArguments>
+          <flagArguments>
+            <flagArg name="noReflect" arg="true" />
+            <flagArg name="noStdlib" arg="true" />
+          </flagArguments>
+          <stringArguments>
+            <stringArg name="classpath">
+              <args>
+                <arg>$MODULE_DIR$/../../../../../Sneha/Java/jdk-11/bin/caches/transforms-3/a4a7823fd3effe06b7c2b8b5b7eab94b/transformed/jetified-junit-1.1.2-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../Sneha/Java/jdk-11/bin/caches/transforms-3/7b9aa5c000d4d1b095dbba30ae337cc3/transformed/espresso-core-3.3.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../Sneha/Java/jdk-11/bin/caches/transforms-3/ccd1226501ad240ece7002d497de582e/transformed/runner-1.3.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../Sneha/Java/jdk-11/bin/caches/transforms-3/157dbc5fbdaa456a329fe885ae94cbfc/transformed/jetified-junit-4.12.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../Sneha/Java/jdk-11/bin/caches/transforms-3/2b940fb23971c7be709e77367633252b/transformed/jetified-hamcrest-integration-1.3.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../Sneha/Java/jdk-11/bin/caches/transforms-3/ac576b171740bdd8d5443f74c4da8d26/transformed/jetified-hamcrest-library-1.3.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../Sneha/Java/jdk-11/bin/caches/transforms-3/c6f7e253e321c845fb16a4c3828c8aba/transformed/jetified-hamcrest-core-1.3.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../Sneha/Java/jdk-11/bin/caches/transforms-3/3070e0ebc752f1fa89b55cbb5de87c73/transformed/jetified-core-1.3.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../Sneha/Java/jdk-11/bin/caches/transforms-3/8201858c50647eedaab27ec1238085a8/transformed/jetified-core-ktx-1.3.2-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../Sneha/Java/jdk-11/bin/caches/transforms-3/4ecef6f0fae268cf2f5ba15c42065882/transformed/material-1.2.1-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../Sneha/Java/jdk-11/bin/caches/transforms-3/50d058b63a43717620cc67e2f6f3dea8/transformed/constraintlayout-2.0.4-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../Sneha/Java/jdk-11/bin/caches/transforms-3/8232840168cc44858ceaad5659a1d6e0/transformed/appcompat-1.2.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../Sneha/Java/jdk-11/bin/caches/transforms-3/fb2aa1709963f91474c4dbb4296e9a66/transformed/monitor-1.3.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../Sneha/Java/jdk-11/bin/caches/transforms-3/a96360b9d1216608935a45abec389433/transformed/jetified-viewpager2-1.0.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../Sneha/Java/jdk-11/bin/caches/transforms-3/b1ca02ab20394c84a8cd053db286aa15/transformed/fragment-1.1.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../Sneha/Java/jdk-11/bin/caches/transforms-3/a9db9344b0d39781e5ddfe7dc500157d/transformed/jetified-appcompat-resources-1.2.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../Sneha/Java/jdk-11/bin/caches/transforms-3/3d445342162a9027dfbba6b8af6174cb/transformed/drawerlayout-1.0.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../Sneha/Java/jdk-11/bin/caches/transforms-3/817c8bc57b3e8b8f04dc96c048b7bb8c/transformed/coordinatorlayout-1.1.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../Sneha/Java/jdk-11/bin/caches/transforms-3/5162eb9f7f89ca3fc070d010de6c742f/transformed/transition-1.2.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../Sneha/Java/jdk-11/bin/caches/transforms-3/836ba731312943f5f7f04613e4447300/transformed/vectordrawable-animated-1.1.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../Sneha/Java/jdk-11/bin/caches/transforms-3/6178721e9fc58971b89b285db434fe89/transformed/vectordrawable-1.1.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../Sneha/Java/jdk-11/bin/caches/transforms-3/6e82d9a6167ede47e6d441b35e16cfbe/transformed/viewpager-1.0.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../Sneha/Java/jdk-11/bin/caches/transforms-3/9fa5eed64b9d9e4b806e93201c161c07/transformed/loader-1.0.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../Sneha/Java/jdk-11/bin/caches/transforms-3/862022430b89aceb6d302f329320a0fb/transformed/jetified-activity-1.0.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../Sneha/Java/jdk-11/bin/caches/transforms-3/743db09219223e2a258320ecf3fc2ed8/transformed/recyclerview-1.1.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../Sneha/Java/jdk-11/bin/caches/transforms-3/d23901cc1e40d93192e3672bdb26bee1/transformed/customview-1.0.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../Sneha/Java/jdk-11/bin/caches/transforms-3/8ada4323235eefabbfd146643e0029da/transformed/core-1.3.2-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../Sneha/Java/jdk-11/bin/caches/transforms-3/e5e20599a062da23b550d327286d7a32/transformed/cursoradapter-1.0.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../Sneha/Java/jdk-11/bin/caches/transforms-3/5de3f03ceac9214923cd5af89f7471f2/transformed/cardview-1.0.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../Sneha/Java/jdk-11/bin/caches/transforms-3/c36c5e1a9b34b318f2e3884806cc082f/transformed/lifecycle-runtime-2.1.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../Sneha/Java/jdk-11/bin/caches/transforms-3/856be5662d1c846cbfd3a1f141f33666/transformed/jetified-savedstate-1.0.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../Sneha/Java/jdk-11/bin/caches/transforms-3/46c1e63155a331569517d4b1bde9fe54/transformed/lifecycle-livedata-2.0.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../Sneha/Java/jdk-11/bin/caches/transforms-3/ad5a05e354bacddd21a0d2d68e004ace/transformed/lifecycle-livedata-core-2.0.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../Sneha/Java/jdk-11/bin/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-common/2.1.0/c67e7807d9cd6c329b9d0218b2ec4e505dd340b7/lifecycle-common-2.1.0.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../Sneha/Java/jdk-11/bin/caches/transforms-3/16392725480a66516de6504bfda60879/transformed/versionedparcelable-1.1.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../Sneha/Java/jdk-11/bin/caches/modules-2/files-2.1/androidx.collection/collection/1.1.0/1f27220b47669781457de0d600849a5de0e89909/collection-1.1.0.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../Sneha/Java/jdk-11/bin/caches/transforms-3/452c95c60ef4f13a057ff44725f62962/transformed/lifecycle-viewmodel-2.1.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../Sneha/Java/jdk-11/bin/caches/transforms-3/266c97c2373c5b65c5a7ce00e63856f9/transformed/interpolator-1.0.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../Sneha/Java/jdk-11/bin/caches/transforms-3/b2545b5948e86b09e4e0e32f42363c88/transformed/core-runtime-2.0.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../Sneha/Java/jdk-11/bin/caches/modules-2/files-2.1/androidx.arch.core/core-common/2.1.0/b3152fc64428c9354344bd89848ecddc09b6f07e/core-common-2.1.0.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../Sneha/Java/jdk-11/bin/caches/modules-2/files-2.1/androidx.annotation/annotation/1.1.0/e3a6fb2f40e3a3842e6b7472628ba4ce416ea4c8/annotation-1.1.0.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../Sneha/Java/jdk-11/bin/caches/transforms-3/55fdc012c62712c6fe22aea809e2c91e/transformed/espresso-idling-resource-3.3.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../Sneha/Java/jdk-11/bin/caches/transforms-3/701d60e5a39ce4de7600475abdc64433/transformed/jetified-javawriter-2.1.1.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../Sneha/Java/jdk-11/bin/caches/transforms-3/d09cb506b08b4bf4e69f4f9d90451cf7/transformed/jetified-javax.inject-1.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../Sneha/Java/jdk-11/bin/caches/transforms-3/ccbc616115ccb5a9b79002fd1a40554d/transformed/jetified-jsr305-2.0.1.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../Sneha/Java/jdk-11/bin/caches/transforms-3/9f281b52f5327281be8429e6ad55b52d/transformed/jetified-kotlin-stdlib-1.4.10.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../Sneha/Java/jdk-11/bin/caches/transforms-3/03d65c90eb395b45ac0437b521d435d8/transformed/multidex-2.0.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../Sneha/Java/jdk-11/bin/caches/transforms-3/abf2677ae7ff7f58767b1d3239b26d45/transformed/jetified-kotlin-stdlib-common-1.4.10.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../Sneha/Java/jdk-11/bin/caches/transforms-3/fed12cbf4242bab89012e08d6d32b58f/transformed/jetified-annotations-13.0.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../Sneha/Java/jdk-11/bin/caches/transforms-3/198a682ca916ddbda6c8ea5d9498ed9e/transformed/jetified-annotation-experimental-1.0.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../Sneha/Java/jdk-11/bin/caches/modules-2/files-2.1/androidx.constraintlayout/constraintlayout-solver/2.0.4/1f001d7db280a89a6c26b26a66eb064bb6d5efeb/constraintlayout-solver-2.0.4.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../Sneha/Android/Sdk/platforms/android-34/android.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../Sneha/Android/Sdk/build-tools/30.0.3/core-lambda-stubs.jar</arg>
+              </args>
+            </stringArg>
+            <stringArg name="destination" arg="$MODULE_DIR$/../../../app/build/tmp/kotlin-classes/debugAndroidTest" />
+            <stringArg name="jvmTarget" arg="1.8" />
+            <stringArg name="moduleName" arg="app_debug" />
+            <stringArg name="apiVersion" arg="1.4" />
+            <stringArg name="languageVersion" arg="1.4" />
+          </stringArguments>
+          <arrayArguments>
+            <arrayArg name="friendPaths">
+              <args>
+                <arg>$MODULE_DIR$/../../../app/build/tmp/kotlin-classes/debug</arg>
+                <arg>$MODULE_DIR$/../../../app/build/intermediates/javac/debug/classes</arg>
+                <arg>$MODULE_DIR$/../../../app/build/intermediates/app_classes/debug/classes.jar</arg>
+              </args>
+            </arrayArg>
+            <arrayArg name="pluginClasspaths" />
+            <arrayArg name="pluginOptions" />
+          </arrayArguments>
+        </compilerArguments>
+      </configuration>
+    </facet>
+    <facet external-system-id="GRADLE" type="android" name="Android">
+      <configuration>
+        <option name="SELECTED_BUILD_VARIANT" value="debug" />
+        <option name="ALLOW_USER_CONFIGURATION" value="false" />
+        <option name="MANIFEST_FILE_RELATIVE_PATH" value="/src/main/AndroidManifest.xml" />
+        <option name="RES_FOLDER_RELATIVE_PATH" value="/src/main/res" />
+        <option name="RES_FOLDERS_RELATIVE_PATH" value="" />
+        <option name="TEST_RES_FOLDERS_RELATIVE_PATH" value="file://$MODULE_DIR$/../../../app/src/androidTest/res;file://$MODULE_DIR$/../../../app/src/androidTestDebug/res;file://$MODULE_DIR$/../../../app/build/generated/res/rs/androidTest/debug;file://$MODULE_DIR$/../../../app/build/generated/res/resValues/androidTest/debug" />
+        <option name="ASSETS_FOLDER_RELATIVE_PATH" value="/src/main/assets" />
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8">
+    <output-test url="file://$MODULE_DIR$/../../../app/build/intermediates/javac/debugAndroidTest/classes" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../app/build/generated/aidl_source_output_dir/debugAndroidTest/out" />
+    <content url="file://$MODULE_DIR$/../../../app/build/generated/ap_generated_sources/debugAndroidTest/out" />
+    <content url="file://$MODULE_DIR$/../../../app/build/generated/renderscript_source_output_dir/debugAndroidTest/out" />
+    <content url="file://$MODULE_DIR$/../../../app/build/generated/res/resValues/androidTest/debug" />
+    <content url="file://$MODULE_DIR$/../../../app/build/generated/res/rs/androidTest/debug" />
+    <content url="file://$MODULE_DIR$/../../../app/build/generated/source/buildConfig/androidTest/debug" />
+    <content url="file://$MODULE_DIR$/../../../app/src/androidTest">
+      <sourceFolder url="file://$MODULE_DIR$/../../../app/src/androidTest/java" isTestSource="true" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../app/src/androidTestDebug" />
+    <orderEntry type="jdk" jdkName="Android API 34, extension level 7 Platform" jdkType="Android SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="Casino_Royale.app.main" scope="TEST" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.test.ext:junit:1.1.2@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.test.espresso:espresso-core:3.3.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.test:runner:1.3.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.test:core:1.3.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.core:core-ktx:1.3.2@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.google.android.material:material:1.2.1@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.constraintlayout:constraintlayout:2.0.4@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.appcompat:appcompat:1.2.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.test:monitor:1.3.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.viewpager2:viewpager2:1.0.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.fragment:fragment:1.1.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.appcompat:appcompat-resources:1.2.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.drawerlayout:drawerlayout:1.0.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.coordinatorlayout:coordinatorlayout:1.1.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.transition:transition:1.2.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.vectordrawable:vectordrawable-animated:1.1.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.vectordrawable:vectordrawable:1.1.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.viewpager:viewpager:1.0.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.loader:loader:1.0.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.activity:activity:1.0.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.recyclerview:recyclerview:1.1.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.customview:customview:1.0.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.core:core:1.3.2@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.cursoradapter:cursoradapter:1.0.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.cardview:cardview:1.0.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.lifecycle:lifecycle-runtime:2.1.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.savedstate:savedstate:1.0.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.lifecycle:lifecycle-livedata:2.0.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.lifecycle:lifecycle-livedata-core:2.0.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.versionedparcelable:versionedparcelable:1.1.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.lifecycle:lifecycle-viewmodel:2.1.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.interpolator:interpolator:1.0.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.arch.core:core-runtime:2.0.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.test.espresso:espresso-idling-resource:3.3.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.multidex:multidex:2.0.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.annotation:annotation-experimental:1.0.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: junit:junit:4.12" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.hamcrest:hamcrest-integration:1.3" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.hamcrest:hamcrest-library:1.3" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.hamcrest:hamcrest-core:1.3" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.lifecycle:lifecycle-common:2.1.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.collection:collection:1.1.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.arch.core:core-common:2.1.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.annotation:annotation:1.1.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.squareup:javawriter:2.1.1" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: javax.inject:javax.inject:1" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.google.code.findbugs:jsr305:2.0.1" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib:1.4.10" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-common:1.4.10" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains:annotations:13.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.constraintlayout:constraintlayout-solver:2.0.4" level="project" />
+  </component>
+  <component name="TestModuleProperties" production-module="Casino_Royale.app.main" />
+</module>
